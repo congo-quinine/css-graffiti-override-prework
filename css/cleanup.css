@@ -9,9 +9,11 @@
 }
 #wall .tag-3 {
   display: none;
+  z-index: -1;
 }
 #wall .tag-4 {
   display: none;
+  z-index: -1;
 }
 #wall .tag-5 {
   display: none;
