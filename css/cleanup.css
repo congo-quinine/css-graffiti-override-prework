@@ -8,6 +8,7 @@
   display: none;
 }
 #tag-3 {
+  z-index: -1;
 display: none;
 }
 #tag-4 {
