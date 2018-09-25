@@ -21,7 +21,7 @@ display: none;
  display: none;
 }
 #tag-7{
- display: none;
+  z-index: -1;
 }
 
 /*#wall {*/
